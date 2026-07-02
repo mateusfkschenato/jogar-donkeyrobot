@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"C:/Projetos/trabalho-final/build-web/cmake_install.cmake",
-		"C:/Projetos/trabalho-final/build-web/external/raylib/cmake_install.cmake",
-		"C:/Projetos/trabalho-final/build-web/external/raylib/raylib/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
